@@ -32,7 +32,7 @@
 
 ---
 
-<a href="https://www.prabath-md-official-web.com/"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
+<a href="https://www.prabath-md-official-web.com/"><img src="https://https://ibb.co/Vjsphdf" alt="Create prabath-md bot" width="150"></a>
 
 <br>
 
